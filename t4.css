@@ -1,0 +1,19 @@
+.chess{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    position: relative;
+}
+.badge{
+    width: 40px;
+    height: 40px;
+    border: px solid black;
+    position: absolute;
+    top: 0px;
+    left: 230px;
+    display: inline-block;
+    background-color: white;
+
+
+}
